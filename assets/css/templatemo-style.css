@@ -374,6 +374,14 @@ button:hover {
     border-radius: 5px;
 }
 
+
+.center-image img {
+    border-radius: 5px;
+    max-width: 400px;
+    display: inline-block;
+    text-align: center;
+}
+
 .right-image-post h4,
 .left-image-post h4 {
     margin-top: 30px;
